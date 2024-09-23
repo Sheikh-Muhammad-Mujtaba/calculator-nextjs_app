@@ -17,6 +17,3 @@ This is a Simple Calculator App built with Next Js. The application provides a u
 
 https://calculator-nextjs-app.vercel.app/
 
-## License
-
-This project is licensed under the MIT License.
